@@ -3,7 +3,9 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="max-w-3xl mx-auto p-8 space-y-10">
-      <h1 className="text-3xl font-bold mb-6">The Best Apps of 2024</h1>
+      <h1 className="text-3xl font-bold mb-6">The Best Apps of 2024: Tools That Change the Context of Work and Creation
+
+</h1>
 
       <section>
         <h2 className="text-2xl font-semibold">1. Wordware AI</h2>
